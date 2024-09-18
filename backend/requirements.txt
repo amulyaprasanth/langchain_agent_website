@@ -1,0 +1,8 @@
+python-dotenv
+langchain[all]
+langchain_community
+langchain_groq
+fastapi[standard]
+pymongo[srv]
+passlib[bcrypt]
+pyjwt[crypto]
